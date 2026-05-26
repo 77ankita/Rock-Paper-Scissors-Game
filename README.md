@@ -8,6 +8,9 @@ To develop an interactive Rock Paper Scissors game using HTML, CSS, and JavaScri
 * CSS
 * JavaScript
 
+# Tool
+VS code
+
 # Output
 * The game allows the user to play Rock Paper Scissors against the computer with instant result display and score tracking.
 * Displays user score, computer score, selected moves, and winning or losing messages dynamically.
